@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">qml/testQQmlApplicationEngine/main.qml</file>
+    </qresource>
+</RCC>
